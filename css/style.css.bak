@@ -1,0 +1,14 @@
+.gallery
+{
+	margin: 10px 30px;
+}
+.gallery img
+{
+	width:230px;
+	padding:10px;
+}
+.gallery img:hover
+{
+	transform:scale(1.1);
+}
+	
